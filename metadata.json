@@ -1,0 +1,6 @@
+{
+  "name": "FocusQuest",
+  "description": "Gamified productivity and study app with Pomodoro timer, tasks, XP levels, streaks, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
